@@ -6,7 +6,7 @@
 }
 html,body{
     height: 100%;
-    width: 100%;
+    width: 105%;
 }
 #one{
     height: 120%;
@@ -14,7 +14,7 @@ html,body{
     background-color: rgb(233, 92, 40);
 }
 #two{
-    padding: 80px 15px;
+    padding: 90px 10px;
     display: flex;
     justify-content: space-between;
     height: 80%;
