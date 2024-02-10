@@ -1,0 +1,12 @@
+gsap.from("#four",{
+    y:100,
+    opacity:0,
+    duration:2,
+})
+gsap.from("#two",{
+    y:100,
+    opacity:0,
+    duration:3,
+    delay:1,
+    stagger:0.5,
+})
