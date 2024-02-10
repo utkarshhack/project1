@@ -10,3 +10,5 @@ gsap.from("#two",{
     delay:1,
     stagger:0.5,
 })
+
+prompt("WELCOME TO WEDDING CEREMONY, Please enter your name")
