@@ -3,7 +3,7 @@ gsap.from("#four",{
     opacity:0,
     duration:2,
 })
-gsap.from("#two",{
+gsap.from("#two img",{
     y:100,
     opacity:0,
     duration:3,
@@ -11,4 +11,11 @@ gsap.from("#two",{
     stagger:0.5,
 })
 
-prompt("WELCOME TO WEDDING CEREMONY, Please enter your name")
+gsap.from("#five img",{
+    y:100,
+    opacity:0,
+    duration:3,
+    delay:3
+    
+})
+
